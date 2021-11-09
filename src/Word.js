@@ -8,6 +8,6 @@ function Word({ r_seq, r_word, r_link, r_chi, r_des, r_pos }) {
         </div>
     )
 }
- 
+  
 export default Word;
         
