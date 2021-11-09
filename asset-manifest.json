@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yuminbc/react_dic.git/static/css/main.60319c03.chunk.css",
+    "main.js": "/yuminbc/react_dic.git/static/js/main.6cd19779.chunk.js",
+    "main.js.map": "/yuminbc/react_dic.git/static/js/main.6cd19779.chunk.js.map",
+    "runtime-main.js": "/yuminbc/react_dic.git/static/js/runtime-main.1f2e3ed7.js",
+    "runtime-main.js.map": "/yuminbc/react_dic.git/static/js/runtime-main.1f2e3ed7.js.map",
+    "static/js/2.e40fb2ed.chunk.js": "/yuminbc/react_dic.git/static/js/2.e40fb2ed.chunk.js",
+    "static/js/2.e40fb2ed.chunk.js.map": "/yuminbc/react_dic.git/static/js/2.e40fb2ed.chunk.js.map",
+    "static/js/3.29c327eb.chunk.js": "/yuminbc/react_dic.git/static/js/3.29c327eb.chunk.js",
+    "static/js/3.29c327eb.chunk.js.map": "/yuminbc/react_dic.git/static/js/3.29c327eb.chunk.js.map",
+    "index.html": "/yuminbc/react_dic.git/index.html",
+    "static/css/main.60319c03.chunk.css.map": "/yuminbc/react_dic.git/static/css/main.60319c03.chunk.css.map",
+    "static/js/2.e40fb2ed.chunk.js.LICENSE.txt": "/yuminbc/react_dic.git/static/js/2.e40fb2ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f2e3ed7.js",
+    "static/js/2.e40fb2ed.chunk.js",
+    "static/css/main.60319c03.chunk.css",
+    "static/js/main.6cd19779.chunk.js"
+  ]
+}
